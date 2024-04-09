@@ -1,0 +1,17 @@
+aniso8601
+asgiref
+Django
+django-filter
+django-graphql-auth
+graphene
+graphene-django
+graphql-core
+graphql-relay
+promise
+PyJWT
+Rx
+singledispatch
+six
+sqlparse
+text-unidecode
+tzdata
